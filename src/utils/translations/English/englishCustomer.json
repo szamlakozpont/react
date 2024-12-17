@@ -1,0 +1,40 @@
+{
+  "sentInvoices": "Sent invoices",
+  "searchExport": "Search, export...",
+  "statistics": "Statistics",
+  "graphs": "Graphs, analytics...",
+  "newInvoice": "New invoice",
+  "sendingInvoice": "Sending invoice...",
+
+  "createCustomer": "Create customer",
+  "createBulkCustomer": "Create customers",
+  "customerType": "Customer type",
+  "createCustomerTitle": "Create Customer",
+  "toCreateCustomer": "Tax number formats: 12345678-1-11, EU tax number format: AA12345678 !",
+
+  "editCustomerTitle": "Edit Customer",
+  "toEditCustomer": "Tax number formats: 12345678-1-11, EU tax number format: AA12345678 !",
+  "deleteCustomerTitle": "Delete Customer",
+  "toDeleteCustomer": "Are you sure you want to delete this Customer?",
+  "allCustomers": "All customers",
+  "cancel": "Cancel",
+  "create": "Create",
+  "delete": "Delete",
+
+  "baseCustomerData": "Customer base data",
+  "name": "Name",
+  "email": "Email",
+  "cityName": "City name",
+  "taxNumber": "Tax number",
+  "euTaxNumber": "EU Tax number",
+  "customersTitle": "CUSTOMERS",
+
+  "nameRequired": "Name is required!",
+  "emailRequired": "Email is required",
+  "cityNameRequired": "City name is required!",
+  "taxNumberRequired": "Tax number is required!",
+  "euTaxNumberRequired": "EU Tax number is required!",
+
+  "taxNumberPattern": "Invalid tax number!",
+  "euTaxNumberPattern": "Invalid eu tax number!"
+}

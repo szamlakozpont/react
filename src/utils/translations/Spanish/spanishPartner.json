@@ -1,0 +1,72 @@
+{
+  "createPartner": "Crear socio",
+  "createBulkPartner": "Creación en masa",
+
+  "partnerType": "Tipo de socio",
+  "createPartnerTitle": "Crear Socio",
+  "toCreatePartner": "Formato de número de impuestos: 12345678-1-11, Formato de número de impuestos de la UE: AA12345678 !",
+  "editPartnerTitle": "Editar Socio",
+  "toEditPartner": "Formato de número de impuestos: 12345678-1-11, Formato de número de impuestos de la UE: AA12345678 !",
+  "deletePartnerTitle": "Eliminar Socio",
+  "toDeletePartner": "¿Está seguro de que desea eliminar este socio?",
+  "deleteTitleMultiple": "Eliminar socios",
+  "toDeleteMultiple": "¿Está seguro de que desea eliminar estos socios?",
+  "deleteTitle": "Eliminar Socio",
+  "toDelete": "¿Está seguro de que desea eliminar este socio?",
+
+  "listSupplierTitle": "Datos del proveedor",
+  "allPartners": "Todos los socios",
+
+  "cancel": "Cancelar",
+  "create": "Crear",
+  "delete": "Eliminar",
+
+  "basePartnerData": "Datos básicos del socio",
+  "name": "Nombre",
+  "email": "Correo electrónico",
+  "address": "Dirección",
+
+  "taxNumber": "Número de impuestos",
+  "euTaxNumber": "Número de impuestos de la UE",
+  "numberOfInvoices": "Número de facturas",
+  "supplierName": "Proveedor",
+  "supplierId": "Proveedor",
+  "partnersTitle": "SOCIOS",
+  "partnersTitle_": "CLIENTES",
+  "isPrivate": "Privado",
+
+  "nameRequired": "¡El nombre es obligatorio!",
+  "addressRequired": "¡El nombre de la ciudad es obligatorio!",
+  "taxNumberRequired": "¡El número de impuestos es obligatorio!",
+  "euTaxNumberRequired": "¡El número de impuestos de la UE es obligatorio!",
+  "supplierRequired": "¡El proveedor es obligatorio!",
+
+  "taxNumberPattern": "¡Número de impuestos no válido!",
+  "euTaxNumberPattern": "¡Número de impuestos de la UE no válido!",
+
+  "listInvoicesTitle": "Lista de facturas",
+  "invoicesTitle": "Facturas",
+
+  "partnerProfileData": "Datos del perfil del socio",
+  "profileName": "Nombre del perfil",
+  "isPartnerProfile": "Perfil del socio",
+  "eInvoicePiecesPrice": "Precio de e-factura",
+  "invoiceStorePiecesPrice": "Precio de almacenamiento de facturas",
+  "invoiceBoxPrice": "Precio de la caja",
+  "navEInvoicePiecesPrice": "Precio de e-factura Nav",
+  "navPaperInvoicePiecesPrice": "Precio de factura en papel Nav",
+  "archivePrice": "Precio de archivo",
+
+  "emailRequired": "¡El correo electrónico es obligatorio!",
+  "profileNameRequired": "¡El nombre del perfil es obligatorio!",
+  "withProfile": "Perfiles",
+  "trueProfile": "Sí",
+  "falseProfile": "No",
+
+  "bulkCreatePartnersModal": "Creación en masa de socios",
+  "number": "Número",
+  "bulkCreateText": "Por favor, establezca la cantidad de nuevos datos a generar",
+  "generate": "Generar",
+  "selectSupplier": "Proveedor",
+  "partnerNameInitial": "Nombre inicial del socio con número creciente (1 => socio1)"
+}

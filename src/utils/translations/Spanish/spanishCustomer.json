@@ -1,0 +1,40 @@
+{
+  "sentInvoices": "Facturas enviadas",
+  "searchExport": "Buscar, exportar...",
+  "statistics": "Estadísticas",
+  "graphs": "Gráficos, análisis...",
+  "newInvoice": "Nueva factura",
+  "sendingInvoice": "Enviando factura...",
+
+  "createCustomer": "Crear cliente",
+  "createBulkCustomer": "Crear clientes",
+  "customerType": "Tipo de cliente",
+  "createCustomerTitle": "Crear Cliente",
+  "toCreateCustomer": "Formatos de número de impuestos: 12345678-1-11, Formato de número de impuestos de la UE: AA12345678 !",
+
+  "editCustomerTitle": "Editar Cliente",
+  "toEditCustomer": "Formatos de número de impuestos: 12345678-1-11, Formato de número de impuestos de la UE: AA12345678 !",
+  "deleteCustomerTitle": "Eliminar Cliente",
+  "toDeleteCustomer": "¿Está seguro de que desea eliminar este cliente?",
+  "allCustomers": "Todos los clientes",
+  "cancel": "Cancelar",
+  "create": "Crear",
+  "delete": "Eliminar",
+
+  "baseCustomerData": "Datos básicos del cliente",
+  "name": "Nombre",
+  "email": "Correo electrónico",
+  "cityName": "Nombre de la ciudad",
+  "taxNumber": "Número de impuestos",
+  "euTaxNumber": "Número de impuestos de la UE",
+  "customersTitle": "CLIENTES",
+
+  "nameRequired": "¡El nombre es obligatorio!",
+  "emailRequired": "El correo electrónico es obligatorio",
+  "cityNameRequired": "¡El nombre de la ciudad es obligatorio!",
+  "taxNumberRequired": "¡El número de impuestos es obligatorio!",
+  "euTaxNumberRequired": "¡El número de impuestos de la UE es obligatorio!",
+
+  "taxNumberPattern": "¡Número de impuestos no válido!",
+  "euTaxNumberPattern": "¡Número de impuestos de la UE no válido!"
+}

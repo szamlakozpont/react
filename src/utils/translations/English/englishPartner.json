@@ -1,0 +1,72 @@
+{
+  "createPartner": "Create partner",
+  "createBulkPartner": "Bulk create",
+
+  "partnerType": "Partner type",
+  "createPartnerTitle": "Create Partner",
+  "toCreatePartner": "Tax number format: 12345678-1-11, EU tax number format: AA12345678 !",
+  "editPartnerTitle": "Edit Partner",
+  "toEditPartner": "Tax number format: 12345678-1-11, EU tax number format: AA12345678 !",
+  "deletePartnerTitle": "Delete Partner",
+  "toDeletePartner": "Are you sure you want to delete this Partner?",
+  "deleteTitleMultiple": "Delete Partners",
+  "toDeleteMultiple": "Are you sure you want to delete these Partners?",
+  "deleteTitle": "Delete Partner",
+  "toDelete": "Are you sure you want to delete this Partner?",
+
+  "listSupplierTitle": "Data of Supplier",
+  "allPartners": "All partners",
+
+  "cancel": "Cancel",
+  "create": "Create",
+  "delete": "Delete",
+
+  "basePartnerData": "Partner base data",
+  "name": "Name",
+  "email": "Email",
+  "address": "Address",
+
+  "taxNumber": "Tax number",
+  "euTaxNumber": "EU Tax number",
+  "numberOfInvoices": "Number of invoices",
+  "supplierName": "Supplier",
+  "supplierId": "Supplier",
+  "partnersTitle": "PARTNERS",
+  "partnersTitle_": "CUSTOMERS",
+  "isPrivate": "Private",
+
+  "nameRequired": "Name is required!",
+  "addressRequired": "City name is required!",
+  "taxNumberRequired": "Tax number is required!",
+  "euTaxNumberRequired": "EU Tax number is required!",
+  "supplierRequired": "Supplier is required!",
+
+  "taxNumberPattern": "Invalid tax number!",
+  "euTaxNumberPattern": "Invalid eu tax number!",
+
+  "listInvoicesTitle": "Invoices List",
+  "invoicesTitle": "Invoices",
+
+  "partnerProfileData": "Partner profile data",
+  "profileName": "Profile name",
+  "isPartnerProfile": "Partner profile",
+  "eInvoicePiecesPrice": "E-invoice price",
+  "invoiceStorePiecesPrice": "Invoice store price",
+  "invoiceBoxPrice": "Box price",
+  "navEInvoicePiecesPrice": "Nav e-invoice price",
+  "navPaperInvoicePiecesPrice": "Nav paper invoice price",
+  "archivePrice": "Archiv price",
+
+  "emailRequired": "Email is required!",
+  "profileNameRequired": "Profile name is required!",
+  "withProfile": "Profiles",
+  "trueProfile": "Yes",
+  "falseProfile": "No",
+
+  "bulkCreatePartnersModal": "Bulk create partners",
+  "number": "Number",
+  "bulkCreateText": "Please set the number of generating new data",
+  "generate": "Generate",
+  "selectSupplier": "Supplier",
+  "partnerNameInitial": "Partner name initial increasing number (1 => partner1)"
+}

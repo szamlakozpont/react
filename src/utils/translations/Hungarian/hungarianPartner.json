@@ -1,0 +1,72 @@
+{
+  "createPartner": "Új partner",
+  "createBulkPartner": "Új partnerek",
+
+  "partnerType": "Partner típus",
+  "createPartnerTitle": "Új partner",
+  "toCreatePartner": "Adószám formátuma: 12345678-1-11, közösségi adószám formátuma: AA12345678 !",
+  "editPartnerTitle": "Partner szerkesztése",
+  "toEditPartner": "Adószám formátuma: 12345678-1-11, közösségi adószám formátuma: AA12345678 !",
+  "deletePartnerTitle": "Partner törlése",
+  "toDeletePartner": "Biztos, hogy törölni akarja ezt a partnert?",
+  "deleteTitleMultiple": "Partnerek törlése",
+  "toDeleteMultiple": "Biztos, hogy törölni akarja ezeket a partnereket?",
+  "deleteTitle": "Partner törlése",
+  "toDelete": "Biztos, hogy törölni akarja ezt a partnert?",
+
+  "listSupplierTitle": "Szállítói adatok",
+  "allPartners": "Összes partner",
+
+  "cancel": "Mégsem",
+  "create": "Létrehoz",
+  "delete": "Töröl",
+
+  "basePartnerData": "Partner alapadatok",
+  "name": "Név",
+  "email": "Email",
+  "address": "Cím",
+
+  "taxNumber": "Adószám",
+  "euTaxNumber": "Közösségi adószám",
+  "supplierName": "Szállító",
+  "numberOfInvoices": "Számlák száma",
+  "supplierId": "Szállító",
+  "partnersTitle": "PARTNEREK",
+  "partnersTitle_": "VEVŐK",
+  "isPrivate": "Magánszemély",
+
+  "nameRequired": "Nincs név!",
+  "addressRequired": "Nincs település név!",
+  "taxNumberRequired": "Nincs adószám!",
+  "euTaxNumberRequired": "Nincs közösségi adószám!",
+  "supplierRequired": "Nincs szállító!",
+
+  "taxNumberPattern": "Hibás adószám!",
+  "euTaxNumberPattern": "Hibás közösségi adószám!",
+
+  "listInvoicesTitle": "Számlák Lista",
+  "invoicesTitle": "Számlák",
+
+  "partnerProfileData": "Partner profil adatok",
+  "profileName": "Profil név",
+  "isPartnerProfile": "Partner profil",
+  "eInvoicePiecesPrice": "E-számla darabár",
+  "invoiceStorePiecesPrice": "Számlatár darabár",
+  "invoiceBoxPrice": "Box díj",
+  "navEInvoicePiecesPrice": "Nav e-számla darabár",
+  "navPaperInvoicePiecesPrice": "Nav papír számla darabár",
+  "archivePrice": "Arhívum ár",
+
+  "emailRequired": "Nincs email!",
+  "profileNameRequired": "Nincs profil név!",
+  "withProfile": "Profil",
+  "trueProfile": "Igen",
+  "falseProfile": "Nem",
+
+  "bulkCreatePartnersModal": "Új partnerek létrehozása",
+  "number": "Darab",
+  "bulkCreateText": "Állítsa be a generálandó új adatok számát",
+  "generate": "Létrehoz",
+  "selectSupplier": "Szállító",
+  "partnerNameInitial": "Partner név első növekmény szám (1 => partner1)"
+}

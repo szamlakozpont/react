@@ -1,0 +1,15 @@
+{
+  "pdfLink": "Pdf Link",
+  "welcome": "Welcome",
+  "pleaseEnterPin": "Please enter your PIN code, which was sent in email!",
+  "errorPin": "PIN code error!",
+  "pinInputCount": "PIN code was used in this site",
+  "times": "times",
+  "pleaseSelect": "Please select!",
+  "viewPdf": "View Pdf",
+  "savePdf": "Save Pdf",
+  "lastPinInputTime": "Last PIN code using time",
+  "receivedAt": "First time of viewing invoice",
+  "disabledPin": "Disabled PIN! Please ask new email with pdf invoice!",
+  "remainingPinCount": "Remaining false PIN code using number"
+}

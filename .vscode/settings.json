@@ -1,0 +1,53 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "jspm_packages": true,
+    "node_modules": true
+  },
+
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true
+  },
+
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+  },
+
+  "editor.fontSize": 11,
+  "editor.tabSize": 5,
+  "editor.multiCursorModifier": "alt",
+  "editor.insertSpaces": true,
+  "files.encoding": "utf8",
+
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "*.js": "javascriptreact",
+    "*.tsx": "typescriptreact",
+    "*.ts": "typescriptreact",
+  },
+
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.useEditorConfig": false,
+  "prettier.useTabs": false,
+  "prettier.configPath": "./react/.prettierrc.js",
+
+  "[typescriptreact]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    }
+  },
+
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "editor.acceptSuggestionOnEnter": "off"
+  },
+}

@@ -1,0 +1,15 @@
+{
+  "pdfLink": "Pdf link",
+  "welcome": "Üdvözlöm",
+  "pleaseEnterPin": "Kérem adja meg a bejelkentkezési PIN kódot, amit az emailben talál!",
+  "errorPin": "Hibás PIN kód!",
+  "pinInputCount": "PIN kód használatainak száma ezen az oldalon",
+  "times": "",
+  "pleaseSelect": "Kérem válasszon!",
+  "viewPdf": "Pdf megtekintése",
+  "savePdf": "Pdf mentése",
+  "lastPinInputTime": "PIN kód használatának legutóbbi ideje",
+  "receivedAt": "A számla megtekintésének első ideje",
+  "disabledPin": "Letiltott PIN! Kérjen új emailt a pdf számlával!",
+  "remainingPinCount": "Hátrelévő hibás PIN kód használatának száma"
+}

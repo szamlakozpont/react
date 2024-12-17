@@ -1,0 +1,15 @@
+{
+  "pdfLink": "Enlace PDF",
+  "welcome": "Bienvenido",
+  "pleaseEnterPin": "¡Por favor, ingrese su código PIN, que fue enviado por correo electrónico!",
+  "errorPin": "¡Error en el código PIN!",
+  "pinInputCount": "El código PIN fue utilizado en este sitio",
+  "times": "veces",
+  "pleaseSelect": "¡Por favor seleccione!",
+  "viewPdf": "Ver PDF",
+  "savePdf": "Guardar PDF",
+  "lastPinInputTime": "Última vez que se utilizó el código PIN",
+  "receivedAt": "Primera visualización de la factura",
+  "disabledPin": "¡PIN deshabilitado! Por favor, solicite un nuevo correo electrónico con la factura en PDF.",
+  "remainingPinCount": "Número restante de intentos de código PIN incorrecto"
+}

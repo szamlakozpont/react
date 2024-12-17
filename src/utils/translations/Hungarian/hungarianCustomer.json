@@ -1,0 +1,40 @@
+{
+  "sentInvoices": "Kimenő számlák",
+  "searchExport": "Keresés, export...",
+  "statistics": "Statisztika",
+  "graphs": "Grafikonok, kimutatások...",
+  "newInvoice": "Új számla létrehozása",
+  "sendingInvoice": "Számla küldése",
+
+  "createCustomer": "Új vevő",
+  "createBulkCustomer": "Új vevők",
+  "customerType": "Vevői típus",
+  "createCustomerTitle": "Új vevő",
+  "toCreateCustomer": "Adószám formátuma: 12345678-1-11, közösségi adószám formátuma: AA12345678 !",
+
+  "editCustomerTitle": "Vevő szerkesztése",
+  "toEditCustomer": "Adószám formátuma: 12345678-1-11, közösségi adószám formátuma: AA12345678 !",
+  "deleteCustomerTitle": "Vevő törlése",
+  "toDeleteCustomer": "Biztos, hogy törölni akarja ezt a vevőt?",
+  "allCustomers": "Összes vevő",
+  "cancel": "Mégsem",
+  "create": "Létrehoz",
+  "delete": "Töröl",
+
+  "baseCustomerData": "Vevői alapadatok",
+  "name": "Név",
+  "email": "Email",
+  "cityName": "Település név",
+  "taxNumber": "Adószám",
+  "euTaxNumber": "Közösségi adószám",
+  "customersTitle": "VEVŐK",
+
+  "nameRequired": "Nincs cég név!",
+  "emailRequired": "Nincs email!",
+  "cityNameRequired": "Nincs település név!",
+  "taxNumberRequired": "Nincs adószám!",
+  "euTaxNumberRequired": "Nincs közösségi adószám!",
+
+  "taxNumberPattern": "Hibás adószám!",
+  "euTaxNumberPattern": "Hibás közösségi adószám!"
+}
